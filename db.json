@@ -1,0 +1,19 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "bbq burger",
+            "restaurant": "El Roca"
+        },
+        {
+            "id": 1,
+            "name": "cheese burger",
+            "restaurant": "Macdonalds" 
+        }, 
+        {
+            "id": 2,
+            "name": "chicken burger",
+            "restaurant": "burger King"
+        }
+    ]
+}
